@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/weatherapp/static/css/main.b95571bd.chunk.css",
+    "main.js": "/weatherapp/static/js/main.bc7999e8.chunk.js",
+    "main.js.map": "/weatherapp/static/js/main.bc7999e8.chunk.js.map",
+    "runtime-main.js": "/weatherapp/static/js/runtime-main.9e5b2355.js",
+    "runtime-main.js.map": "/weatherapp/static/js/runtime-main.9e5b2355.js.map",
+    "static/js/2.ac5b2ca4.chunk.js": "/weatherapp/static/js/2.ac5b2ca4.chunk.js",
+    "static/js/2.ac5b2ca4.chunk.js.map": "/weatherapp/static/js/2.ac5b2ca4.chunk.js.map",
+    "index.html": "/weatherapp/index.html",
+    "static/css/main.b95571bd.chunk.css.map": "/weatherapp/static/css/main.b95571bd.chunk.css.map",
+    "static/js/2.ac5b2ca4.chunk.js.LICENSE.txt": "/weatherapp/static/js/2.ac5b2ca4.chunk.js.LICENSE.txt",
+    "static/media/file.css": "/weatherapp/static/media/16 of the Best Places to Visit in Italy.ae31f632.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e5b2355.js",
+    "static/js/2.ac5b2ca4.chunk.js",
+    "static/css/main.b95571bd.chunk.css",
+    "static/js/main.bc7999e8.chunk.js"
+  ]
+}
